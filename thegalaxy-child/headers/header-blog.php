@@ -67,7 +67,7 @@
 	
 	echo '<div class="header_page_logo_image">';
 	
-	echo '<img src="https://rey.coreysizemore.com/wp-content/uploads/2021/10/nates_plumbing_logo.png" alt="nates plumbing logo" />';
+	echo '<img src="https://natesplumbing.com/wp-content/uploads/2021/10/nates_plumbing_logo.png" alt="nates plumbing logo" />';
 	
 	echo '</div>';
 
@@ -107,7 +107,7 @@
 	
 	echo '<div class="header_page_logo_image">';
 	
-	echo '<img src="https://rey.coreysizemore.com/wp-content/uploads/2021/10/nates_plumbing_logo.png" alt="nates plumbing logo" />';
+	echo '<img src="https://natesplumbing.com/wp-content/uploads/2021/10/nates_plumbing_logo.png" alt="nates plumbing logo" />';
 	
 	echo '</div>';
 
